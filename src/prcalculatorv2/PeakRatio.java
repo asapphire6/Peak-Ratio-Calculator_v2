@@ -1,4 +1,4 @@
-package prCalculator_2;
+package prcalculatorv2;
 
 public class PeakRatio {
 	private Double ratio;

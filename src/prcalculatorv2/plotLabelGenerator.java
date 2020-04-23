@@ -1,4 +1,4 @@
-package prCalculator_2;
+package prcalculatorv2;
 
 import org.jfree.chart.labels.XYItemLabelGenerator;
 import org.jfree.data.xy.XYDataset;

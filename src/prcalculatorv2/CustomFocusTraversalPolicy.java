@@ -1,4 +1,4 @@
-package prCalculator_2;
+package prcalculatorv2;
 
 import java.awt.Component;
 import java.awt.Container;

@@ -1,4 +1,4 @@
-package prCalculator_2;
+package prcalculatorv2;
 
 public class PRC_Main {
 	public static void main(String[] args) {
